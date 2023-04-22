@@ -1,1 +1,2 @@
-followers*.json
+node_modules
+followers.old.json
